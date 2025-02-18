@@ -1,0 +1,27 @@
+*{
+    color: black;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 200%;
+    margin:50;
+}
+
+h1{
+    color: blueviolet;
+    
+}
+h2{
+    color: aqua;
+
+}
+ul>li{
+    color: aqua;
+    list-style-type: square;
+}
+ol>li{
+    color: brown;
+    list-style-type: circle;
+}
